@@ -1,0 +1,9 @@
+main: com.EjectUSB.EasyBackpacks.Main
+name: EasyBackpacks
+version: 1.0
+author: EjectUSB
+description: If you see this ingame, please uninstall this asap. This plugin is crap.
+commands:
+  backpack:
+    usage: /<command>
+    description: You can look at your backpack with this!.
