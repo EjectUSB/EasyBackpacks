@@ -18,7 +18,7 @@ public class Main extends JavaPlugin {
     private final Map<UUID, Playerdata> playerDataMap = new HashMap<>();
     private File playerDataFolder;
 
-    public Permission EBAcess = new Permission("easypacks.access");
+    public Permission EBAcess = new Permission("easybackpacks.access");
 
     @NotNull
     public Map<UUID, Playerdata> getPlayerDataMap() {
